@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+    <title>Dota2 miniMax+</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta name="x5-orientation" content="portrait" />
+    <meta name="apple-mobile-web-app-title" content="Dota2 Info">
+    <meta name="apple-mobile-web-app-capable" content=yes>
+    <meta name="apple-mobile-web-app-status-bar-style" content=#838a88>
+    <link rel="apple-touch-icon" href='dist/icons/icon_256x256.e4bfecf4b8b397bedf5628cb25cc9e7a.png'>
+    <link rel="manifest" href='dist/manifest.json'>
+    <link rel="stylesheet" href="./dist/css//main.css" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="reactRoot"></div>
+    <script type="text/javascript" src="/dist/index.js"></script>
+    <script type="text/javascript">
+        var images = new Array()
+
+        function preload() {
+            for (i = 0; i < preload.arguments.length; i++) {
+                images[i] = new Image()
+                images[i].src = preload.arguments[i]
+            }
+        }
+        preload(
+            "./dist/img/loading.gif",
+            "./dist/img/fail.png",
+        )
+    </script>
+</body>
+
+</html>
