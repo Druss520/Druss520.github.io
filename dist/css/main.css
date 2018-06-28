@@ -610,6 +610,7 @@ body {
   justify-content: space-around;
   align-items: center;
   z-index: 10;
+  box-shadow: 0 0.35714rem 3.57143rem 0.35714rem #ddd;
 }
 
 .box_XTYb6 {
