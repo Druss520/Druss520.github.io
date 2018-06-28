@@ -1345,6 +1345,457 @@ eval("module.exports = __webpack_require__.p + \"img/loading.gif\";\n\n//# sourc
 
 /***/ }),
 
+/***/ "./src/assets/img/minimap/600px-Minimap_7.07.png":
+/*!*******************************************************!*\
+  !*** ./src/assets/img/minimap/600px-Minimap_7.07.png ***!
+  \*******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/600px-Minimap_7.07.png\";\n\n//# sourceURL=webpack:///./src/assets/img/minimap/600px-Minimap_7.07.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank1-1.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank1-1.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank1-1.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank1-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank1-2.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank1-2.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank1-2.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank1-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank1-3.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank1-3.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank1-3.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank1-3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank1-4.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank1-4.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank1-4.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank1-4.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank1-5.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank1-5.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank1-5.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank1-5.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank2-1.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank2-1.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank2-1.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank2-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank2-2.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank2-2.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank2-2.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank2-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank2-3.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank2-3.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank2-3.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank2-3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank2-4.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank2-4.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank2-4.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank2-4.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank2-5.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank2-5.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank2-5.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank2-5.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank3-1.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank3-1.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank3-1.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank3-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank3-2.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank3-2.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank3-2.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank3-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank3-3.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank3-3.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank3-3.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank3-3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank3-4.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank3-4.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank3-4.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank3-4.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank3-5.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank3-5.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank3-5.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank3-5.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank4-1.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank4-1.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank4-1.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank4-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank4-2.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank4-2.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank4-2.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank4-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank4-3.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank4-3.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank4-3.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank4-3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank4-4.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank4-4.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank4-4.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank4-4.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank4-5.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank4-5.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank4-5.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank4-5.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank5-1.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank5-1.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank5-1.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank5-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank5-2.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank5-2.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank5-2.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank5-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank5-3.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank5-3.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank5-3.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank5-3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank5-4.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank5-4.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank5-4.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank5-4.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank5-5.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank5-5.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank5-5.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank5-5.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank6-1.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank6-1.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank6-1.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank6-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank6-2.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank6-2.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank6-2.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank6-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank6-3.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank6-3.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank6-3.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank6-3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank6-4.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank6-4.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank6-4.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank6-4.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank6-5.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank6-5.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank6-5.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank6-5.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank7-1.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank7-1.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank7-1.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank7-1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank7-2.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank7-2.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank7-2.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank7-2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank7-3.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank7-3.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank7-3.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank7-3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank7-4.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank7-4.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank7-4.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank7-4.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRank7-5.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRank7-5.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRank7-5.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRank7-5.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRankTop0.png":
+/*!************************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRankTop0.png ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRankTop0.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRankTop0.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRankTop1.png":
+/*!************************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRankTop1.png ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRankTop1.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRankTop1.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRankTop2.png":
+/*!************************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRankTop2.png ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRankTop2.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRankTop2.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/180px-SeasonalRankTop3.png":
+/*!************************************************************!*\
+  !*** ./src/assets/img/rankTier/180px-SeasonalRankTop3.png ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/180px-SeasonalRankTop3.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/180px-SeasonalRankTop3.png?");
+
+/***/ }),
+
+/***/ "./src/assets/img/rankTier/230px-SeasonalRank0-0.png":
+/*!***********************************************************!*\
+  !*** ./src/assets/img/rankTier/230px-SeasonalRank0-0.png ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"img/230px-SeasonalRank0-0.png\";\n\n//# sourceURL=webpack:///./src/assets/img/rankTier/230px-SeasonalRank0-0.png?");
+
+/***/ }),
+
 /***/ "./src/assets/img/userDefault.png":
 /*!****************************************!*\
   !*** ./src/assets/img/userDefault.png ***!
@@ -1375,6 +1826,29 @@ eval("module.exports = {\"0\":{\"id\":0,\"name\":\"game_mode_unknown\",\"chinese
 /***/ (function(module) {
 
 eval("module.exports = {\"0\":{\"id\":0,\"name\":\"lobby_type_normal\",\"chinese\":\"普通\",\"balanced\":true},\"1\":{\"id\":1,\"name\":\"lobby_type_practice\",\"chinese\":\"联赛\",\"balanced\":true},\"2\":{\"id\":2,\"name\":\"lobby_type_tournament\",\"chinese\":\"巡回赛\",\"balanced\":true},\"3\":{\"id\":3,\"name\":\"lobby_type_tutorial\",\"chinese\":\"教学模式\"},\"4\":{\"id\":4,\"name\":\"lobby_type_coop_bots\",\"chinese\":\"人机合作\"},\"5\":{\"id\":5,\"name\":\"lobby_type_ranked_team_mm\",\"chinese\":\"组队天梯\",\"balanced\":true},\"6\":{\"id\":6,\"name\":\"lobby_type_ranked_solo_mm\",\"chinese\":\"单排天梯\",\"balanced\":true},\"7\":{\"id\":7,\"name\":\"lobby_type_ranked\",\"chinese\":\"天梯匹配\",\"balanced\":true},\"8\":{\"id\":8,\"name\":\"lobby_type_1v1_mid\",\"chinese\":\"中路Solo\"},\"9\":{\"id\":9,\"name\":\"lobby_type_battle_cup\",\"chinese\":\"勇士联赛\",\"balanced\":true}};\n\n//# sourceURL=webpack:///./src/assets/json/lobby_type.json?");
+
+/***/ }),
+
+/***/ "./src/components/Datablock/index.scss":
+/*!*********************************************!*\
+  !*** ./src/components/Datablock/index.scss ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("// removed by extract-text-webpack-plugin\nmodule.exports = {\"property-block\":\"property-block_3RB7t\",\"propertyBlock\":\"property-block_3RB7t\",\"property-block-flat\":\"property-block-flat_2WhWN\",\"propertyBlockFlat\":\"property-block-flat_2WhWN\",\"property\":\"property_2-u2C\",\"property-value\":\"property-value_y8g41\",\"propertyValue\":\"property-value_y8g41\"};\n\n//# sourceURL=webpack:///./src/components/Datablock/index.scss?");
+
+/***/ }),
+
+/***/ "./src/components/Datablock/index.tsx":
+/*!********************************************!*\
+  !*** ./src/components/Datablock/index.tsx ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst React = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\r\nconst styles = __webpack_require__(/*! ./index.scss */ \"./src/components/Datablock/index.scss\");\r\nconst Datablock = (props) => {\r\n    const { name, value, flat } = props;\r\n    return (React.createElement(\"div\", { className: flat ? styles.propertyBlockFlat : styles.propertyBlock },\r\n        React.createElement(\"div\", { className: styles.property }, name),\r\n        React.createElement(\"div\", { className: styles.propertyValue }, value ? value : '--')));\r\n};\r\nexports.default = Datablock;\r\n\n\n//# sourceURL=webpack:///./src/components/Datablock/index.tsx?");
 
 /***/ }),
 
@@ -1594,7 +2068,7 @@ eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nco
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst loading = __webpack_require__(/*! ../assets/img/loading.gif */ \"./src/assets/img/loading.gif\");\r\nconst fail = __webpack_require__(/*! ../assets/img/fail.png */ \"./src/assets/img/fail.png\");\r\nconst add = __webpack_require__(/*! ../assets/img/add.png */ \"./src/assets/img/add.png\");\r\nconst aegis = __webpack_require__(/*! ../assets/img/aegis.jpg */ \"./src/assets/img/aegis.jpg\");\r\nconst empty = __webpack_require__(/*! ../assets/img/empty.png */ \"./src/assets/img/empty.png\");\r\nconst userDefault = __webpack_require__(/*! ../assets/img/userDefault.png */ \"./src/assets/img/userDefault.png\");\r\nexports.default = {\r\n    loading,\r\n    fail,\r\n    add,\r\n    aegis,\r\n    empty,\r\n    userDefault,\r\n};\r\n\n\n//# sourceURL=webpack:///./src/config/imgCfg.ts?");
+eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst loading = __webpack_require__(/*! ../assets/img/loading.gif */ \"./src/assets/img/loading.gif\");\r\nconst fail = __webpack_require__(/*! ../assets/img/fail.png */ \"./src/assets/img/fail.png\");\r\nconst add = __webpack_require__(/*! ../assets/img/add.png */ \"./src/assets/img/add.png\");\r\nconst aegis = __webpack_require__(/*! ../assets/img/aegis.jpg */ \"./src/assets/img/aegis.jpg\");\r\nconst empty = __webpack_require__(/*! ../assets/img/empty.png */ \"./src/assets/img/empty.png\");\r\nconst userDefault = __webpack_require__(/*! ../assets/img/userDefault.png */ \"./src/assets/img/userDefault.png\");\r\nconst minimap = __webpack_require__(/*! ../assets/img/minimap/600px-Minimap_7.07.png */ \"./src/assets/img/minimap/600px-Minimap_7.07.png\");\r\nconst unknownTier = __webpack_require__(/*! ../assets/img/rankTier/230px-SeasonalRank0-0.png */ \"./src/assets/img/rankTier/230px-SeasonalRank0-0.png\");\r\nconst herad1 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank1-1.png */ \"./src/assets/img/rankTier/180px-SeasonalRank1-1.png\");\r\nconst herad2 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank1-2.png */ \"./src/assets/img/rankTier/180px-SeasonalRank1-2.png\");\r\nconst herad3 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank1-3.png */ \"./src/assets/img/rankTier/180px-SeasonalRank1-3.png\");\r\nconst herad4 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank1-4.png */ \"./src/assets/img/rankTier/180px-SeasonalRank1-4.png\");\r\nconst herad5 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank1-5.png */ \"./src/assets/img/rankTier/180px-SeasonalRank1-5.png\");\r\nconst gardian1 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank2-1.png */ \"./src/assets/img/rankTier/180px-SeasonalRank2-1.png\");\r\nconst gardian2 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank2-2.png */ \"./src/assets/img/rankTier/180px-SeasonalRank2-2.png\");\r\nconst gardian3 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank2-3.png */ \"./src/assets/img/rankTier/180px-SeasonalRank2-3.png\");\r\nconst gardian4 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank2-4.png */ \"./src/assets/img/rankTier/180px-SeasonalRank2-4.png\");\r\nconst gardian5 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank2-5.png */ \"./src/assets/img/rankTier/180px-SeasonalRank2-5.png\");\r\nconst crusader1 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank3-1.png */ \"./src/assets/img/rankTier/180px-SeasonalRank3-1.png\");\r\nconst crusader2 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank3-2.png */ \"./src/assets/img/rankTier/180px-SeasonalRank3-2.png\");\r\nconst crusader3 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank3-3.png */ \"./src/assets/img/rankTier/180px-SeasonalRank3-3.png\");\r\nconst crusader4 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank3-4.png */ \"./src/assets/img/rankTier/180px-SeasonalRank3-4.png\");\r\nconst crusader5 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank3-5.png */ \"./src/assets/img/rankTier/180px-SeasonalRank3-5.png\");\r\nconst archon1 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank4-1.png */ \"./src/assets/img/rankTier/180px-SeasonalRank4-1.png\");\r\nconst archon2 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank4-2.png */ \"./src/assets/img/rankTier/180px-SeasonalRank4-2.png\");\r\nconst archon3 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank4-3.png */ \"./src/assets/img/rankTier/180px-SeasonalRank4-3.png\");\r\nconst archon4 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank4-4.png */ \"./src/assets/img/rankTier/180px-SeasonalRank4-4.png\");\r\nconst archon5 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank4-5.png */ \"./src/assets/img/rankTier/180px-SeasonalRank4-5.png\");\r\nconst legend1 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank5-1.png */ \"./src/assets/img/rankTier/180px-SeasonalRank5-1.png\");\r\nconst legend2 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank5-2.png */ \"./src/assets/img/rankTier/180px-SeasonalRank5-2.png\");\r\nconst legend3 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank5-3.png */ \"./src/assets/img/rankTier/180px-SeasonalRank5-3.png\");\r\nconst legend4 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank5-4.png */ \"./src/assets/img/rankTier/180px-SeasonalRank5-4.png\");\r\nconst legend5 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank5-5.png */ \"./src/assets/img/rankTier/180px-SeasonalRank5-5.png\");\r\nconst ancient1 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank6-1.png */ \"./src/assets/img/rankTier/180px-SeasonalRank6-1.png\");\r\nconst ancient2 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank6-2.png */ \"./src/assets/img/rankTier/180px-SeasonalRank6-2.png\");\r\nconst ancient3 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank6-3.png */ \"./src/assets/img/rankTier/180px-SeasonalRank6-3.png\");\r\nconst ancient4 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank6-4.png */ \"./src/assets/img/rankTier/180px-SeasonalRank6-4.png\");\r\nconst ancient5 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank6-5.png */ \"./src/assets/img/rankTier/180px-SeasonalRank6-5.png\");\r\nconst divine1 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank7-1.png */ \"./src/assets/img/rankTier/180px-SeasonalRank7-1.png\");\r\nconst divine2 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank7-2.png */ \"./src/assets/img/rankTier/180px-SeasonalRank7-2.png\");\r\nconst divine3 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank7-3.png */ \"./src/assets/img/rankTier/180px-SeasonalRank7-3.png\");\r\nconst divine4 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank7-4.png */ \"./src/assets/img/rankTier/180px-SeasonalRank7-4.png\");\r\nconst divine5 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRank7-5.png */ \"./src/assets/img/rankTier/180px-SeasonalRank7-5.png\");\r\nconst immortal1 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRankTop0.png */ \"./src/assets/img/rankTier/180px-SeasonalRankTop0.png\");\r\nconst immortal2 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRankTop1.png */ \"./src/assets/img/rankTier/180px-SeasonalRankTop1.png\");\r\nconst immortal3 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRankTop2.png */ \"./src/assets/img/rankTier/180px-SeasonalRankTop2.png\");\r\nconst immortal4 = __webpack_require__(/*! ../assets/img/rankTier/180px-SeasonalRankTop3.png */ \"./src/assets/img/rankTier/180px-SeasonalRankTop3.png\");\r\nexports.default = {\r\n    loading,\r\n    fail,\r\n    add,\r\n    aegis,\r\n    empty,\r\n    userDefault,\r\n    minimap,\r\n    unknownTier,\r\n    herad1,\r\n    herad2,\r\n    herad3,\r\n    herad4,\r\n    herad5,\r\n    gardian1,\r\n    gardian2,\r\n    gardian3,\r\n    gardian4,\r\n    gardian5,\r\n    crusader1,\r\n    crusader2,\r\n    crusader3,\r\n    crusader4,\r\n    crusader5,\r\n    archon1,\r\n    archon2,\r\n    archon3,\r\n    archon4,\r\n    archon5,\r\n    legend1,\r\n    legend2,\r\n    legend3,\r\n    legend4,\r\n    legend5,\r\n    ancient1,\r\n    ancient2,\r\n    ancient3,\r\n    ancient4,\r\n    ancient5,\r\n    divine1,\r\n    divine2,\r\n    divine3,\r\n    divine4,\r\n    divine5,\r\n    immortal1,\r\n    immortal2,\r\n    immortal3,\r\n    immortal4,\r\n};\r\n\n\n//# sourceURL=webpack:///./src/config/imgCfg.ts?");
 
 /***/ }),
 
@@ -1682,6 +2156,18 @@ eval("\r\nvar __awaiter = (this && this.__awaiter) || function (thisArg, _argume
 
 /***/ }),
 
+/***/ "./src/interface/player/getTotalData.ts":
+/*!**********************************************!*\
+  !*** ./src/interface/player/getTotalData.ts ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\r\nvar __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {\r\n    return new (P || (P = Promise))(function (resolve, reject) {\r\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\r\n        function rejected(value) { try { step(generator[\"throw\"](value)); } catch (e) { reject(e); } }\r\n        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }\r\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\r\n    });\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst axios_1 = __webpack_require__(/*! axios */ \"./node_modules/axios/index.js\");\r\nfunction getRecentMatches(params) {\r\n    return __awaiter(this, void 0, void 0, function* () {\r\n        const url = `https://api.opendota.com/api/players/${params.account_id}/totals`;\r\n        return axios_1.default.get(url);\r\n    });\r\n}\r\nexports.default = getRecentMatches;\r\n\n\n//# sourceURL=webpack:///./src/interface/player/getTotalData.ts?");
+
+/***/ }),
+
 /***/ "./src/interface/player/getWinLose.ts":
 /*!********************************************!*\
   !*** ./src/interface/player/getWinLose.ts ***!
@@ -1702,7 +2188,7 @@ eval("\r\nvar __awaiter = (this && this.__awaiter) || function (thisArg, _argume
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\r\nvar __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {\r\n    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;\r\n    if (typeof Reflect === \"object\" && typeof Reflect.decorate === \"function\") r = Reflect.decorate(decorators, target, key, desc);\r\n    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;\r\n    return c > 3 && r && Object.defineProperty(target, key, r), r;\r\n};\r\nvar __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {\r\n    return new (P || (P = Promise))(function (resolve, reject) {\r\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\r\n        function rejected(value) { try { step(generator[\"throw\"](value)); } catch (e) { reject(e); } }\r\n        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }\r\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\r\n    });\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst mobx_1 = __webpack_require__(/*! mobx */ \"./node_modules/mobx/lib/mobx.module.js\");\r\nconst getPlayer_1 = __webpack_require__(/*! ./getPlayer */ \"./src/interface/player/getPlayer.ts\");\r\nconst getRecentMatches_1 = __webpack_require__(/*! ./getRecentMatches */ \"./src/interface/player/getRecentMatches.ts\");\r\nconst getWinLose_1 = __webpack_require__(/*! ./getWinLose */ \"./src/interface/player/getWinLose.ts\");\r\nconst mobx_2 = __webpack_require__(/*! mobx */ \"./node_modules/mobx/lib/mobx.module.js\");\r\nconst config_1 = __webpack_require__(/*! ../../config */ \"./src/config/index.ts\");\r\nclass Player {\r\n    constructor() {\r\n        this.params = {\r\n            account_id: parseInt(config_1.default.global.Global.accountId)\r\n        };\r\n        this.isFakeId = false;\r\n    }\r\n    getAllInfo() {\r\n        return __awaiter(this, void 0, void 0, function* () {\r\n            let typeNum = 0;\r\n            this.params = {\r\n                account_id: parseInt(config_1.default.global.Global.accountId)\r\n            };\r\n            yield getPlayer_1.default(this.params).then((res) => {\r\n                this.playerProfile = res.data;\r\n                if (this.playerProfile.profile === undefined) {\r\n                    typeNum = 2;\r\n                    this.isFakeId = true;\r\n                }\r\n            }).catch((e) => {\r\n                console.log(e);\r\n                typeNum = 1;\r\n            });\r\n            yield getWinLose_1.default(this.params).then((res) => {\r\n                this.winLose = res.data;\r\n                if (this.winLose.lose === 0 && this.winLose.win === 0) {\r\n                    typeNum = 2;\r\n                    this.isFakeId = true;\r\n                }\r\n            }).catch((e) => {\r\n                console.log(e);\r\n                typeNum = 1;\r\n            });\r\n            yield getRecentMatches_1.default(this.params).then((res) => {\r\n                this.recentMatch = res.data;\r\n                if (this.recentMatch.length === 0) {\r\n                    typeNum = 2;\r\n                    this.isFakeId = true;\r\n                }\r\n            }).catch((e) => {\r\n                console.log(e);\r\n                typeNum = 1;\r\n            });\r\n            return typeNum;\r\n        });\r\n    }\r\n}\r\n__decorate([\r\n    mobx_1.observable\r\n], Player.prototype, \"playerProfile\", void 0);\r\n__decorate([\r\n    mobx_1.observable\r\n], Player.prototype, \"winLose\", void 0);\r\n__decorate([\r\n    mobx_1.observable\r\n], Player.prototype, \"recentMatch\", void 0);\r\n__decorate([\r\n    mobx_2.action\r\n], Player.prototype, \"getAllInfo\", null);\r\nconst player = new Player();\r\nexports.default = player;\r\n\n\n//# sourceURL=webpack:///./src/interface/player/index.ts?");
+eval("\r\nvar __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {\r\n    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;\r\n    if (typeof Reflect === \"object\" && typeof Reflect.decorate === \"function\") r = Reflect.decorate(decorators, target, key, desc);\r\n    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;\r\n    return c > 3 && r && Object.defineProperty(target, key, r), r;\r\n};\r\nvar __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {\r\n    return new (P || (P = Promise))(function (resolve, reject) {\r\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\r\n        function rejected(value) { try { step(generator[\"throw\"](value)); } catch (e) { reject(e); } }\r\n        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }\r\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\r\n    });\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst mobx_1 = __webpack_require__(/*! mobx */ \"./node_modules/mobx/lib/mobx.module.js\");\r\nconst getPlayer_1 = __webpack_require__(/*! ./getPlayer */ \"./src/interface/player/getPlayer.ts\");\r\nconst getRecentMatches_1 = __webpack_require__(/*! ./getRecentMatches */ \"./src/interface/player/getRecentMatches.ts\");\r\nconst getWinLose_1 = __webpack_require__(/*! ./getWinLose */ \"./src/interface/player/getWinLose.ts\");\r\nconst mobx_2 = __webpack_require__(/*! mobx */ \"./node_modules/mobx/lib/mobx.module.js\");\r\nconst config_1 = __webpack_require__(/*! ../../config */ \"./src/config/index.ts\");\r\nconst getTotalData_1 = __webpack_require__(/*! ./getTotalData */ \"./src/interface/player/getTotalData.ts\");\r\nclass Player {\r\n    constructor() {\r\n        this.params = {\r\n            account_id: parseInt(config_1.default.global.Global.accountId)\r\n        };\r\n        this.isFakeId = false;\r\n    }\r\n    getAllInfo() {\r\n        return __awaiter(this, void 0, void 0, function* () {\r\n            let typeNum = 0;\r\n            this.params = {\r\n                account_id: parseInt(config_1.default.global.Global.accountId)\r\n            };\r\n            yield getPlayer_1.default(this.params).then((res) => {\r\n                this.playerProfile = res.data;\r\n                if (this.playerProfile.profile === undefined) {\r\n                    typeNum = 2;\r\n                    this.isFakeId = true;\r\n                }\r\n            }).catch((e) => {\r\n                console.log(e);\r\n                typeNum = 1;\r\n            });\r\n            yield getWinLose_1.default(this.params).then((res) => {\r\n                this.winLose = res.data;\r\n                if (this.winLose.lose === 0 && this.winLose.win === 0) {\r\n                    typeNum = 2;\r\n                    this.isFakeId = true;\r\n                }\r\n            }).catch((e) => {\r\n                console.log(e);\r\n                typeNum = 1;\r\n            });\r\n            yield getRecentMatches_1.default(this.params).then((res) => {\r\n                this.recentMatch = res.data;\r\n                if (this.recentMatch.length === 0) {\r\n                    typeNum = 2;\r\n                    this.isFakeId = true;\r\n                }\r\n            }).catch((e) => {\r\n                console.log(e);\r\n                typeNum = 1;\r\n            });\r\n            yield getTotalData_1.default(this.params).then((res) => {\r\n                this.totalData = res.data;\r\n                if (this.totalData.length === 0) {\r\n                    typeNum = 2;\r\n                    this.isFakeId = true;\r\n                }\r\n            }).catch((e) => {\r\n                console.log(e);\r\n                typeNum = 1;\r\n            });\r\n            return typeNum;\r\n        });\r\n    }\r\n}\r\n__decorate([\r\n    mobx_1.observable\r\n], Player.prototype, \"playerProfile\", void 0);\r\n__decorate([\r\n    mobx_1.observable\r\n], Player.prototype, \"winLose\", void 0);\r\n__decorate([\r\n    mobx_1.observable\r\n], Player.prototype, \"recentMatch\", void 0);\r\n__decorate([\r\n    mobx_1.observable\r\n], Player.prototype, \"totalData\", void 0);\r\n__decorate([\r\n    mobx_2.action\r\n], Player.prototype, \"getAllInfo\", null);\r\nconst player = new Player();\r\nexports.default = player;\r\n\n\n//# sourceURL=webpack:///./src/interface/player/index.ts?");
 
 /***/ }),
 
@@ -1726,7 +2212,7 @@ eval("\r\nvar __awaiter = (this && this.__awaiter) || function (thisArg, _argume
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\r\nvar __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {\r\n    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;\r\n    if (typeof Reflect === \"object\" && typeof Reflect.decorate === \"function\") r = Reflect.decorate(decorators, target, key, desc);\r\n    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;\r\n    return c > 3 && r && Object.defineProperty(target, key, r), r;\r\n};\r\nvar __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {\r\n    return new (P || (P = Promise))(function (resolve, reject) {\r\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\r\n        function rejected(value) { try { step(generator[\"throw\"](value)); } catch (e) { reject(e); } }\r\n        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }\r\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\r\n    });\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst mobx_1 = __webpack_require__(/*! mobx */ \"./node_modules/mobx/lib/mobx.module.js\");\r\nconst getProplayers_1 = __webpack_require__(/*! ./getProplayers */ \"./src/interface/proplayer/getProplayers.ts\");\r\nconst mobx_2 = __webpack_require__(/*! mobx */ \"./node_modules/mobx/lib/mobx.module.js\");\r\nconst teams = {\r\n    'Big God': '',\r\n    'Old Boys': '',\r\n    'Vici Gaming': '',\r\n    'LGD-GAMING': '',\r\n    'PSG.LGD': '',\r\n    'Virtus.pro': '',\r\n    'Team VGJ': '',\r\n    'LGD.Forever Young': '',\r\n    'Invictus Gaming': '',\r\n    'Newbee': '',\r\n    'Team Liquid': '',\r\n    'Mineski.亿鼎博': '',\r\n    'Team Secret': '',\r\n    'Fnatic': '',\r\n    'VGJ Storm': '',\r\n    'Evil Geniuses': '',\r\n    'OG': '',\r\n    'OpTic Gaming': '',\r\n    'EHOME': '',\r\n    'KEEN GAMING': '',\r\n    'Newbee.Young': '',\r\n    ' Echo.Int': '',\r\n    'ForTheDream': '',\r\n    'Sun Gaming': '',\r\n    'paiN Gaming': '',\r\n    'TAICHI GAMING': '',\r\n    'Winstrike': '',\r\n    'Natus Vincere': '',\r\n    'Digital Chaos': '',\r\n    'Eclipse': '',\r\n    'TEAM EVER': '',\r\n    'Team Max': '',\r\n    'iG.Vitality': '',\r\n    'VGJ Thunder': '',\r\n    'Immortals': '',\r\n    'Team Serenity': '',\r\n    'CDEC Gaming': '',\r\n};\r\nconst ob = 'OB.';\r\nclass ProPlayer {\r\n    getAllInfo() {\r\n        return __awaiter(this, void 0, void 0, function* () {\r\n            let typeNum = 0;\r\n            let tempArray = [];\r\n            yield getProplayers_1.default().then((res) => {\r\n                this.allPro = res.data;\r\n                this.allPro.forEach((item) => {\r\n                    if (item.name && item.team_name) {\r\n                        if (item.name.indexOf(ob) >= 0) {\r\n                            tempArray.push(item);\r\n                        }\r\n                        if (teams[item.team_name] !== undefined) {\r\n                            tempArray.push(item);\r\n                        }\r\n                    }\r\n                });\r\n                this.proplayers = tempArray;\r\n            }).catch((e) => {\r\n                console.log(e);\r\n                typeNum = 1;\r\n            });\r\n            return typeNum;\r\n        });\r\n    }\r\n}\r\n__decorate([\r\n    mobx_1.observable\r\n], ProPlayer.prototype, \"proplayers\", void 0);\r\n__decorate([\r\n    mobx_2.action\r\n], ProPlayer.prototype, \"getAllInfo\", null);\r\nconst proplayer = new ProPlayer();\r\nexports.default = proplayer;\r\n\n\n//# sourceURL=webpack:///./src/interface/proplayer/index.ts?");
+eval("\r\nvar __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {\r\n    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;\r\n    if (typeof Reflect === \"object\" && typeof Reflect.decorate === \"function\") r = Reflect.decorate(decorators, target, key, desc);\r\n    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;\r\n    return c > 3 && r && Object.defineProperty(target, key, r), r;\r\n};\r\nvar __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {\r\n    return new (P || (P = Promise))(function (resolve, reject) {\r\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\r\n        function rejected(value) { try { step(generator[\"throw\"](value)); } catch (e) { reject(e); } }\r\n        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }\r\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\r\n    });\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst mobx_1 = __webpack_require__(/*! mobx */ \"./node_modules/mobx/lib/mobx.module.js\");\r\nconst getProplayers_1 = __webpack_require__(/*! ./getProplayers */ \"./src/interface/proplayer/getProplayers.ts\");\r\nconst mobx_2 = __webpack_require__(/*! mobx */ \"./node_modules/mobx/lib/mobx.module.js\");\r\nconst teams = {\r\n    'Big God': '',\r\n    'O1d Boys': '',\r\n    'Vici Gaming': '',\r\n    'LGD-GAMING': '',\r\n    'PSG.LGD': '',\r\n    'Virtus.pro': '',\r\n    'Team VGJ': '',\r\n    'LGD.Forever Young': '',\r\n    'Invictus Gaming': '',\r\n    'Newbee': '',\r\n    'Team Liquid': '',\r\n    'Mineski.亿鼎博': '',\r\n    'Team Secret': '',\r\n    'Fnatic': '',\r\n    'VGJ Storm': '',\r\n    'Evil Geniuses': '',\r\n    'OG': '',\r\n    'OpTic Gaming': '',\r\n    'EHOME': '',\r\n    'KEEN GAMING': '',\r\n    'Newbee.Young': '',\r\n    ' Echo.Int': '',\r\n    'ForTheDream': '',\r\n    'Sun Gaming': '',\r\n    'paiN Gaming': '',\r\n    'TAICHI GAMING': '',\r\n    'Winstrike': '',\r\n    'Natus Vincere': '',\r\n    'Digital Chaos': '',\r\n    'Eclipse': '',\r\n    'TEAM EVER': '',\r\n    'Team Max': '',\r\n    'iG.Vitality': '',\r\n    'VGJ Thunder': '',\r\n    'Immortals': '',\r\n    'Team Serenity': '',\r\n    'CDEC Gaming': '',\r\n};\r\nconst ob = 'OB.';\r\nclass ProPlayer {\r\n    getAllInfo() {\r\n        return __awaiter(this, void 0, void 0, function* () {\r\n            let typeNum = 0;\r\n            let tempArray = [];\r\n            yield getProplayers_1.default().then((res) => {\r\n                this.allPro = res.data;\r\n                this.allPro.forEach((item) => {\r\n                    if (item.name.indexOf(ob) >= 0) {\r\n                        tempArray.push(item);\r\n                    }\r\n                    if (item.name && item.team_name) {\r\n                        if (teams[item.team_name] !== undefined) {\r\n                            tempArray.push(item);\r\n                        }\r\n                    }\r\n                });\r\n                this.proplayers = tempArray;\r\n            }).catch((e) => {\r\n                console.log(e);\r\n                typeNum = 1;\r\n            });\r\n            return typeNum;\r\n        });\r\n    }\r\n}\r\n__decorate([\r\n    mobx_1.observable\r\n], ProPlayer.prototype, \"proplayers\", void 0);\r\n__decorate([\r\n    mobx_2.action\r\n], ProPlayer.prototype, \"getAllInfo\", null);\r\nconst proplayer = new ProPlayer();\r\nexports.default = proplayer;\r\n\n\n//# sourceURL=webpack:///./src/interface/proplayer/index.ts?");
 
 /***/ }),
 
@@ -1749,7 +2235,7 @@ eval("// removed by extract-text-webpack-plugin\nmodule.exports = {\"page\":\"pa
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst config_1 = __webpack_require__(/*! ../../config */ \"./src/config/index.ts\");\r\nconst React = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\r\nconst styles = __webpack_require__(/*! ./index.scss */ \"./src/page/entry/index.scss\");\r\nconst classNames = __webpack_require__(/*! classnames */ \"./node_modules/classnames/index.js\");\r\nconst history_1 = __webpack_require__(/*! ../../history */ \"./src/history.ts\");\r\nconst Toast_1 = __webpack_require__(/*! ../../components/Toast */ \"./src/components/Toast/index.tsx\");\r\nclass Entry extends React.Component {\r\n    constructor(props) {\r\n        super(props);\r\n        this.state = {\r\n            playerId: ''\r\n        };\r\n        this.onChange = this.onChange.bind(this);\r\n        this.onSubmit = this.onSubmit.bind(this);\r\n    }\r\n    onChange(e) {\r\n        const value = e.target.value;\r\n        this.setState({\r\n            playerId: value\r\n        });\r\n    }\r\n    onSubmit() {\r\n        const value = this.state.playerId;\r\n        const regex = /^[0-9]{8,9}$/;\r\n        if (value.match(regex)) {\r\n            config_1.default.global.Global.accountId = value;\r\n            setTimeout(() => {\r\n                history_1.default.push('/');\r\n            }, 300);\r\n        }\r\n        else {\r\n            Toast_1.default.warning('ID格式不正确', 2);\r\n        }\r\n    }\r\n    render() {\r\n        return (React.createElement(\"div\", { className: styles.page },\r\n            React.createElement(\"div\", { className: styles.header },\r\n                React.createElement(\"div\", { className: classNames([\r\n                        styles.back,\r\n                        'fa fa-chevron-left'\r\n                    ]), onClick: () => {\r\n                        history_1.default.goBack();\r\n                    } }),\r\n                \"TI8\\u4ED6Lei\\u4E86\"),\r\n            React.createElement(\"div\", { className: styles.body },\r\n                React.createElement(\"img\", { className: styles.img, src: config_1.default.img.aegis }),\r\n                React.createElement(\"div\", { className: styles.text }, \"CN DOTA, BEST DOTA\"),\r\n                React.createElement(\"div\", { className: styles.row },\r\n                    React.createElement(\"input\", { className: styles.input, type: \"number\", placeholder: '输入8-9位游戏id以继续', onChange: (e) => {\r\n                            this.onChange(e);\r\n                        } }),\r\n                    React.createElement(\"div\", { className: classNames([\r\n                            'fa fa-arrow-circle-right fa-2x',\r\n                            styles.button\r\n                        ]), onClick: () => {\r\n                            this.onSubmit();\r\n                        } })),\r\n                React.createElement(\"div\", { className: styles.goPro, onClick: () => {\r\n                        history_1.default.push('/proplayer');\r\n                    } }, \"\\u627E\\u4E0D\\u5230id? \\u70B9\\u6211\\u770B\\u770B\\u804C\\u4E1A\\u9009\\u624B\"))));\r\n    }\r\n}\r\nexports.default = Entry;\r\n\n\n//# sourceURL=webpack:///./src/page/entry/index.tsx?");
+eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst config_1 = __webpack_require__(/*! ../../config */ \"./src/config/index.ts\");\r\nconst React = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\r\nconst styles = __webpack_require__(/*! ./index.scss */ \"./src/page/entry/index.scss\");\r\nconst classNames = __webpack_require__(/*! classnames */ \"./node_modules/classnames/index.js\");\r\nconst history_1 = __webpack_require__(/*! ../../history */ \"./src/history.ts\");\r\nconst Toast_1 = __webpack_require__(/*! ../../components/Toast */ \"./src/components/Toast/index.tsx\");\r\nclass Entry extends React.Component {\r\n    constructor(props) {\r\n        super(props);\r\n        this.state = {\r\n            playerId: ''\r\n        };\r\n        this.onChange = this.onChange.bind(this);\r\n        this.onSubmit = this.onSubmit.bind(this);\r\n    }\r\n    onChange(e) {\r\n        const value = e.target.value;\r\n        this.setState({\r\n            playerId: value\r\n        });\r\n    }\r\n    onSubmit() {\r\n        const value = this.state.playerId;\r\n        const regex = /^[0-9]{5,9}$/;\r\n        if (value.match(regex)) {\r\n            config_1.default.global.Global.accountId = value;\r\n            setTimeout(() => {\r\n                history_1.default.push('/');\r\n            }, 300);\r\n        }\r\n        else {\r\n            Toast_1.default.warning('ID格式不正确', 2);\r\n        }\r\n    }\r\n    render() {\r\n        return (React.createElement(\"div\", { className: styles.page },\r\n            React.createElement(\"div\", { className: styles.header },\r\n                React.createElement(\"div\", { className: classNames([\r\n                        styles.back,\r\n                        'fa fa-chevron-left'\r\n                    ]), onClick: () => {\r\n                        history_1.default.goBack();\r\n                    } }),\r\n                \"TI8\\u4ED6Lei\\u4E86\"),\r\n            React.createElement(\"div\", { className: styles.body },\r\n                React.createElement(\"img\", { className: styles.img, src: config_1.default.img.aegis }),\r\n                React.createElement(\"div\", { className: styles.text }, \"CN DOTA, BEST DOTA\"),\r\n                React.createElement(\"div\", { className: styles.row },\r\n                    React.createElement(\"input\", { className: styles.input, type: \"number\", placeholder: '输入5-9位游戏id以继续', onChange: (e) => {\r\n                            this.onChange(e);\r\n                        } }),\r\n                    React.createElement(\"div\", { className: classNames([\r\n                            'fa fa-arrow-circle-right fa-2x',\r\n                            styles.button\r\n                        ]), onClick: () => {\r\n                            this.onSubmit();\r\n                        } })),\r\n                React.createElement(\"div\", { className: styles.goPro, onClick: () => {\r\n                        history_1.default.push('/proplayer');\r\n                    } }, \"\\u627E\\u4E0D\\u5230id? \\u70B9\\u6211\\u770B\\u770B\\u804C\\u4E1A\\u9009\\u624B\"))));\r\n    }\r\n}\r\nexports.default = Entry;\r\n\n\n//# sourceURL=webpack:///./src/page/entry/index.tsx?");
 
 /***/ }),
 
@@ -1760,7 +2246,7 @@ eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nco
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("// removed by extract-text-webpack-plugin\nmodule.exports = {\"hehe\":\"hehe_3ATWf\",\"header\":\"header_3fvS4\",\"switch1\":\"switch1_Uefna\",\"switch-icon\":\"switch-icon_3u6PC\",\"switchIcon\":\"switch-icon_3u6PC\",\"switch-text\":\"switch-text_1AbdL\",\"switchText\":\"switch-text_1AbdL\",\"body\":\"body_2O58D\",\"person\":\"person_301C_\",\"person-left\":\"person-left_jjM05\",\"personLeft\":\"person-left_jjM05\",\"person-avatar\":\"person-avatar_iJ0ld\",\"personAvatar\":\"person-avatar_iJ0ld\",\"person-name\":\"person-name_BtPI0\",\"personName\":\"person-name_BtPI0\",\"pro-row\":\"pro-row_Q_Qaj\",\"proRow\":\"pro-row_Q_Qaj\",\"pro-name\":\"pro-name_uv6ZJ\",\"proName\":\"pro-name_uv6ZJ\",\"pro-icon\":\"pro-icon_2z1X6\",\"proIcon\":\"pro-icon_2z1X6\",\"empty-page\":\"empty-page_38chk\",\"emptyPage\":\"empty-page_38chk\",\"reload\":\"reload_15ro0\",\"person-right\":\"person-right_1Vh6c\",\"personRight\":\"person-right_1Vh6c\",\"person-right-row1\":\"person-right-row1_Fbyb8\",\"personRightRow1\":\"person-right-row1_Fbyb8\",\"person-right-row2\":\"person-right-row2_2MysV\",\"personRightRow2\":\"person-right-row2_2MysV\",\"person-right-small\":\"person-right-small_3wH5K\",\"personRightSmall\":\"person-right-small_3wH5K\",\"no-such\":\"no-such_hVv-m\",\"noSuch\":\"no-such_hVv-m\",\"hint\":\"hint_9taw8\",\"btn-go\":\"btn-go_AyTuM\",\"btnGo\":\"btn-go_AyTuM\"};\n\n//# sourceURL=webpack:///./src/page/home/index.scss?");
+eval("// removed by extract-text-webpack-plugin\nmodule.exports = {\"hehe\":\"hehe_3ATWf\",\"header\":\"header_3fvS4\",\"switch1\":\"switch1_Uefna\",\"switch-icon\":\"switch-icon_3u6PC\",\"switchIcon\":\"switch-icon_3u6PC\",\"switch-text\":\"switch-text_1AbdL\",\"switchText\":\"switch-text_1AbdL\",\"body\":\"body_2O58D\",\"person\":\"person_301C_\",\"person-1\":\"person-1_IYEah\",\"person1\":\"person-1_IYEah\",\"person-left\":\"person-left_jjM05\",\"personLeft\":\"person-left_jjM05\",\"person-avatar\":\"person-avatar_iJ0ld\",\"personAvatar\":\"person-avatar_iJ0ld\",\"person-right\":\"person-right_1Vh6c\",\"personRight\":\"person-right_1Vh6c\",\"person-name\":\"person-name_BtPI0\",\"personName\":\"person-name_BtPI0\",\"pro-row\":\"pro-row_Q_Qaj\",\"proRow\":\"pro-row_Q_Qaj\",\"pro-name\":\"pro-name_uv6ZJ\",\"proName\":\"pro-name_uv6ZJ\",\"pro-icon\":\"pro-icon_2z1X6\",\"proIcon\":\"pro-icon_2z1X6\",\"row3\":\"row3_2jLi1\",\"white-line\":\"white-line_2V-d9\",\"whiteLine\":\"white-line_2V-d9\",\"person-2\":\"person-2_2CGGY\",\"person2\":\"person-2_2CGGY\",\"general-left\":\"general-left_2pZqg\",\"generalLeft\":\"general-left_2pZqg\",\"general-right\":\"general-right_1_WY8\",\"generalRight\":\"general-right_1_WY8\",\"rank-tier\":\"rank-tier_1nvUn\",\"rankTier\":\"rank-tier_1nvUn\",\"rank-num\":\"rank-num_2fRXG\",\"rankNum\":\"rank-num_2fRXG\",\"empty-page\":\"empty-page_38chk\",\"emptyPage\":\"empty-page_38chk\",\"reload\":\"reload_15ro0\",\"no-such\":\"no-such_hVv-m\",\"noSuch\":\"no-such_hVv-m\",\"hint\":\"hint_9taw8\",\"btn-go\":\"btn-go_AyTuM\",\"btnGo\":\"btn-go_AyTuM\"};\n\n//# sourceURL=webpack:///./src/page/home/index.scss?");
 
 /***/ }),
 
@@ -1772,7 +2258,7 @@ eval("// removed by extract-text-webpack-plugin\nmodule.exports = {\"hehe\":\"he
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\r\nvar __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {\r\n    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;\r\n    if (typeof Reflect === \"object\" && typeof Reflect.decorate === \"function\") r = Reflect.decorate(decorators, target, key, desc);\r\n    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;\r\n    return c > 3 && r && Object.defineProperty(target, key, r), r;\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst React = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\r\nconst styles = __webpack_require__(/*! ./index.scss */ \"./src/page/home/index.scss\");\r\nconst player_1 = __webpack_require__(/*! ../../interface/player */ \"./src/interface/player/index.ts\");\r\nconst mobx_react_1 = __webpack_require__(/*! mobx-react */ \"./node_modules/mobx-react/index.module.js\");\r\nconst config_1 = __webpack_require__(/*! ../../config */ \"./src/config/index.ts\");\r\nconst StateView_1 = __webpack_require__(/*! ../../components/StateView */ \"./src/components/StateView/index.tsx\");\r\nconst heros_1 = __webpack_require__(/*! ../../interface/heros */ \"./src/interface/heros/index.ts\");\r\nconst ListPopdown_1 = __webpack_require__(/*! ../../components/ListPopdown */ \"./src/components/ListPopdown/index.tsx\");\r\nconst classNames = __webpack_require__(/*! classnames */ \"./node_modules/classnames/index.js\");\r\nconst history_1 = __webpack_require__(/*! ../../history */ \"./src/history.ts\");\r\nconst ImgView_1 = __webpack_require__(/*! ../../components/ImgView */ \"./src/components/ImgView/index.tsx\");\r\nlet App = class App extends React.Component {\r\n    constructor() {\r\n        super(...arguments);\r\n        this.state = {\r\n            fail: 0,\r\n            call1: false,\r\n            call2: false,\r\n        };\r\n    }\r\n    componentDidMount() {\r\n        const tempid = config_1.default.global.Global.accountId;\r\n        const prevAccountId = player_1.default.previousAccountId;\r\n        if (tempid === '') {\r\n            history_1.default.push('/entry');\r\n        }\r\n        else {\r\n            if (player_1.default.isFakeId || prevAccountId !== tempid) {\r\n                player_1.default.previousAccountId = tempid;\r\n                this.sendRequest();\r\n            }\r\n            else {\r\n                if (player_1.default.playerProfile && heros_1.default.heroArray && player_1.default.winLose && player_1.default.recentMatch) {\r\n                    this.setState({\r\n                        call1: true,\r\n                        call2: true,\r\n                    });\r\n                }\r\n                else {\r\n                    this.sendRequest();\r\n                }\r\n            }\r\n        }\r\n    }\r\n    sendRequest() {\r\n        player_1.default.getAllInfo().then((value) => {\r\n            if (value === 1) {\r\n                this.setState({\r\n                    fail: 1\r\n                });\r\n            }\r\n            else if (value === 2) {\r\n                this.setState({\r\n                    fail: 2\r\n                });\r\n            }\r\n            else {\r\n                player_1.default.isFakeId = false;\r\n                this.setState({\r\n                    call1: true\r\n                });\r\n            }\r\n        });\r\n        if (heros_1.default.heroArray) {\r\n            this.setState({\r\n                call2: true\r\n            });\r\n        }\r\n        else {\r\n            heros_1.default.getHeroInfo().then((value) => {\r\n                if (value) {\r\n                    this.setState({\r\n                        fail: 1\r\n                    });\r\n                }\r\n                else {\r\n                    this.setState({\r\n                        call2: true\r\n                    });\r\n                }\r\n            });\r\n        }\r\n    }\r\n    componentWillUnmount() {\r\n        this.setState = (state, callback) => {\r\n            return;\r\n        };\r\n    }\r\n    render() {\r\n        return (this.state.call1 && this.state.call2 ? (React.createElement(\"div\", { className: styles.hehe },\r\n            React.createElement(\"div\", { className: styles.header },\r\n                React.createElement(\"div\", { className: styles.switch1, onClick: () => {\r\n                        history_1.default.push('/entry');\r\n                    } },\r\n                    React.createElement(\"div\", { className: classNames([\r\n                            styles.switchIcon,\r\n                            'fa fa-exchange'\r\n                        ]) }),\r\n                    React.createElement(\"div\", { className: styles.switchText }, \"\\u5207\\u6362\\u73A9\\u5BB6\")),\r\n                \"Dota2 miniMax+\"),\r\n            React.createElement(\"div\", { className: styles.person },\r\n                React.createElement(\"div\", { className: styles.personLeft },\r\n                    React.createElement(ImgView_1.default, { className: styles.personAvatar, src: player_1.default.playerProfile.profile.avatarfull, fail: config_1.default.img.userDefault }),\r\n                    React.createElement(\"div\", { className: styles.personName }, player_1.default.playerProfile.profile.personaname),\r\n                    player_1.default.playerProfile.profile.name ? (React.createElement(\"div\", { className: styles.proRow },\r\n                        \"(\",\r\n                        React.createElement(\"div\", { className: classNames([\r\n                                'fa fa-id-card-o',\r\n                                styles.proIcon\r\n                            ]) }),\r\n                        React.createElement(\"div\", { className: styles.proName }, player_1.default.playerProfile.profile.name),\r\n                        \")\")) : null),\r\n                React.createElement(\"div\", { className: styles.personRight },\r\n                    React.createElement(\"div\", { className: styles.personRightRow1 },\r\n                        \"MMR: \",\r\n                        player_1.default.playerProfile.mmr_estimate.estimate),\r\n                    React.createElement(\"div\", { className: styles.personRightRow2 },\r\n                        \"\\u5929\\u68AF\\u6392\\u540D: \",\r\n                        player_1.default.playerProfile.leaderboard_rank ? player_1.default.playerProfile.leaderboard_rank : '--'),\r\n                    React.createElement(\"div\", { className: styles.personRightRow2 },\r\n                        \"Region: \",\r\n                        player_1.default.playerProfile.profile.loccountrycode ? player_1.default.playerProfile.profile.loccountrycode : '--'),\r\n                    React.createElement(\"div\", { className: styles.personRightSmall },\r\n                        \"Win: \",\r\n                        player_1.default.winLose.win + '　',\r\n                        \" Lose: \",\r\n                        player_1.default.winLose.lose))),\r\n            React.createElement(ListPopdown_1.default, { matches: player_1.default.recentMatch }))) : (this.state.fail === 1 ? (React.createElement(StateView_1.default, { state: 'fail' })) : (this.state.fail === 2 ? (React.createElement(\"div\", { className: styles.reload },\r\n            React.createElement(\"img\", { className: styles.noSuch, src: config_1.default.img.empty }),\r\n            React.createElement(\"div\", { className: styles.hint }, \"\\u672A\\u627E\\u5230\\u73A9\\u5BB6\\u4FE1\\u606F\"),\r\n            React.createElement(\"div\", { className: styles.btnGo, onClick: () => {\r\n                    history_1.default.push('/entry');\r\n                } }, \"\\u91CD\\u65B0\\u8F93\\u5165\"))) : (React.createElement(StateView_1.default, { state: 'loading' })))));\r\n    }\r\n};\r\nApp = __decorate([\r\n    mobx_react_1.observer\r\n], App);\r\nexports.default = App;\r\n\n\n//# sourceURL=webpack:///./src/page/home/index.tsx?");
+eval("\r\nvar __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {\r\n    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;\r\n    if (typeof Reflect === \"object\" && typeof Reflect.decorate === \"function\") r = Reflect.decorate(decorators, target, key, desc);\r\n    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;\r\n    return c > 3 && r && Object.defineProperty(target, key, r), r;\r\n};\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst React = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\r\nconst styles = __webpack_require__(/*! ./index.scss */ \"./src/page/home/index.scss\");\r\nconst player_1 = __webpack_require__(/*! ../../interface/player */ \"./src/interface/player/index.ts\");\r\nconst mobx_react_1 = __webpack_require__(/*! mobx-react */ \"./node_modules/mobx-react/index.module.js\");\r\nconst config_1 = __webpack_require__(/*! ../../config */ \"./src/config/index.ts\");\r\nconst StateView_1 = __webpack_require__(/*! ../../components/StateView */ \"./src/components/StateView/index.tsx\");\r\nconst heros_1 = __webpack_require__(/*! ../../interface/heros */ \"./src/interface/heros/index.ts\");\r\nconst ListPopdown_1 = __webpack_require__(/*! ../../components/ListPopdown */ \"./src/components/ListPopdown/index.tsx\");\r\nconst classNames = __webpack_require__(/*! classnames */ \"./node_modules/classnames/index.js\");\r\nconst history_1 = __webpack_require__(/*! ../../history */ \"./src/history.ts\");\r\nconst ImgView_1 = __webpack_require__(/*! ../../components/ImgView */ \"./src/components/ImgView/index.tsx\");\r\nconst getRankTier_1 = __webpack_require__(/*! ../../utils/getRankTier */ \"./src/utils/getRankTier.ts\");\r\nconst Datablock_1 = __webpack_require__(/*! ../../components/Datablock */ \"./src/components/Datablock/index.tsx\");\r\nlet App = class App extends React.Component {\r\n    constructor() {\r\n        super(...arguments);\r\n        this.state = {\r\n            fail: 0,\r\n            call1: false,\r\n            call2: false,\r\n        };\r\n    }\r\n    componentDidMount() {\r\n        this.tempid = config_1.default.global.Global.accountId;\r\n        const prevAccountId = player_1.default.previousAccountId;\r\n        if (this.tempid === '') {\r\n            history_1.default.push('/entry');\r\n        }\r\n        else {\r\n            if (player_1.default.isFakeId || prevAccountId !== this.tempid) {\r\n                this.sendRequest();\r\n            }\r\n            else {\r\n                if (player_1.default.playerProfile && heros_1.default.heroArray && player_1.default.winLose && player_1.default.totalData && player_1.default.recentMatch) {\r\n                    this.setState({\r\n                        call1: true,\r\n                        call2: true,\r\n                    });\r\n                }\r\n                else {\r\n                    this.sendRequest();\r\n                }\r\n            }\r\n        }\r\n    }\r\n    sendRequest() {\r\n        player_1.default.getAllInfo().then((value) => {\r\n            if (value === 1) {\r\n                this.setState({\r\n                    fail: 1\r\n                });\r\n            }\r\n            else if (value === 2) {\r\n                this.setState({\r\n                    fail: 2\r\n                });\r\n            }\r\n            else {\r\n                player_1.default.isFakeId = false;\r\n                player_1.default.previousAccountId = this.tempid;\r\n                this.setState({\r\n                    call1: true\r\n                });\r\n            }\r\n        });\r\n        if (heros_1.default.heroArray) {\r\n            this.setState({\r\n                call2: true\r\n            });\r\n        }\r\n        else {\r\n            heros_1.default.getHeroInfo().then((value) => {\r\n                if (value) {\r\n                    this.setState({\r\n                        fail: 1\r\n                    });\r\n                }\r\n                else {\r\n                    this.setState({\r\n                        call2: true\r\n                    });\r\n                }\r\n            });\r\n        }\r\n    }\r\n    componentWillUnmount() {\r\n        this.setState = (state, callback) => {\r\n            return;\r\n        };\r\n    }\r\n    render() {\r\n        return (this.state.call1 && this.state.call2 ? (React.createElement(\"div\", { className: styles.hehe },\r\n            React.createElement(\"div\", { className: styles.header },\r\n                React.createElement(\"div\", { className: styles.switch1, onClick: () => {\r\n                        history_1.default.push('/entry');\r\n                    } },\r\n                    React.createElement(\"div\", { className: classNames([\r\n                            styles.switchIcon,\r\n                            'fa fa-exchange'\r\n                        ]) }),\r\n                    React.createElement(\"div\", { className: styles.switchText }, \"\\u5207\\u6362\\u73A9\\u5BB6\")),\r\n                \"Dota2 miniMax+\"),\r\n            React.createElement(\"div\", { className: styles.person },\r\n                React.createElement(\"div\", { className: styles.person1 },\r\n                    React.createElement(\"div\", { className: styles.personLeft },\r\n                        React.createElement(ImgView_1.default, { className: styles.personAvatar, src: player_1.default.playerProfile.profile.avatarmedium, fail: config_1.default.img.userDefault })),\r\n                    React.createElement(\"div\", { className: styles.personRight },\r\n                        React.createElement(\"div\", { className: styles.personName }, player_1.default.playerProfile.profile.personaname),\r\n                        player_1.default.playerProfile.profile.name ? (React.createElement(\"div\", { className: styles.proRow },\r\n                            React.createElement(\"div\", { className: classNames([\r\n                                    'fa fa-id-card-o',\r\n                                    styles.proIcon\r\n                                ]) }),\r\n                            React.createElement(\"div\", { className: styles.proName }, player_1.default.playerProfile.profile.name))) : null,\r\n                        React.createElement(\"div\", { className: styles.row3 },\r\n                            React.createElement(Datablock_1.default, { name: 'ID', value: player_1.default.playerProfile.profile.account_id, flat: true }),\r\n                            React.createElement(Datablock_1.default, { name: 'steamID', value: player_1.default.playerProfile.profile.steamid, flat: true })))),\r\n                React.createElement(\"div\", { className: styles.whiteLine }),\r\n                React.createElement(\"div\", { className: styles.person2 },\r\n                    React.createElement(\"div\", { className: styles.generalLeft },\r\n                        React.createElement(Datablock_1.default, { name: '胜场', value: player_1.default.winLose.win }),\r\n                        React.createElement(Datablock_1.default, { name: '负场', value: player_1.default.winLose.lose }),\r\n                        React.createElement(Datablock_1.default, { name: '胜率', value: (player_1.default.winLose.win / (player_1.default.winLose.win +\r\n                                player_1.default.winLose.lose) * 100).toFixed(1) + '%' }),\r\n                        React.createElement(Datablock_1.default, { name: 'MMR', value: player_1.default.playerProfile.mmr_estimate.estimate }),\r\n                        React.createElement(Datablock_1.default, { name: '地区', value: player_1.default.playerProfile.profile.loccountrycode }),\r\n                        React.createElement(Datablock_1.default, { name: '击杀', value: (player_1.default.totalData[0].sum / player_1.default.totalData[0].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '死亡', value: (player_1.default.totalData[1].sum / player_1.default.totalData[1].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '助攻', value: (player_1.default.totalData[2].sum / player_1.default.totalData[2].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: 'KDA', value: (player_1.default.totalData[3].sum / player_1.default.totalData[3].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: 'GPM', value: (player_1.default.totalData[4].sum / player_1.default.totalData[4].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: 'XPM', value: (player_1.default.totalData[5].sum / player_1.default.totalData[5].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '正补', value: (player_1.default.totalData[6].sum / player_1.default.totalData[6].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '反补', value: (player_1.default.totalData[7].sum / player_1.default.totalData[7].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '线优', value: (player_1.default.totalData[8].sum / player_1.default.totalData[8].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '耗时', value: (player_1.default.totalData[9].sum / player_1.default.totalData[9].n / 60).toFixed(1) + '分' }),\r\n                        React.createElement(Datablock_1.default, { name: '等级', value: (player_1.default.totalData[10].sum / player_1.default.totalData[10].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '英雄伤害', value: (player_1.default.totalData[11].sum / player_1.default.totalData[11].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '建筑伤害', value: (player_1.default.totalData[12].sum / player_1.default.totalData[12].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '治疗', value: (player_1.default.totalData[13].sum / player_1.default.totalData[13].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '刷野', value: (player_1.default.totalData[16].sum / player_1.default.totalData[16].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '买假眼', value: (player_1.default.totalData[19].sum / player_1.default.totalData[19].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: '买真眼', value: (player_1.default.totalData[20].sum / player_1.default.totalData[20].n).toFixed(1) }),\r\n                        React.createElement(Datablock_1.default, { name: 'APM', value: (player_1.default.totalData[28].sum / player_1.default.totalData[28].n).toFixed(1) })),\r\n                    React.createElement(\"div\", { className: styles.generalRight },\r\n                        React.createElement(\"div\", { className: styles.rankTier, style: {\r\n                                backgroundImage: `url('${getRankTier_1.default(player_1.default.playerProfile.rank_tier, player_1.default.playerProfile.leaderboard_rank)}')`\r\n                            } }, player_1.default.playerProfile.leaderboard_rank ? (React.createElement(\"div\", { className: styles.rankNum }, player_1.default.playerProfile.leaderboard_rank)) : null)))),\r\n            React.createElement(ListPopdown_1.default, { matches: player_1.default.recentMatch }))) : (this.state.fail === 1 ? (React.createElement(StateView_1.default, { state: 'fail' })) : (this.state.fail === 2 ? (React.createElement(\"div\", { className: styles.reload },\r\n            React.createElement(\"img\", { className: styles.noSuch, src: config_1.default.img.empty }),\r\n            React.createElement(\"div\", { className: styles.hint }, \"\\u672A\\u627E\\u5230\\u73A9\\u5BB6\\u4FE1\\u606F\"),\r\n            React.createElement(\"div\", { className: styles.btnGo, onClick: () => {\r\n                    history_1.default.push('/entry');\r\n                } }, \"\\u91CD\\u65B0\\u8F93\\u5165\"))) : (React.createElement(StateView_1.default, { state: 'loading' })))));\r\n    }\r\n};\r\nApp = __decorate([\r\n    mobx_react_1.observer\r\n], App);\r\nexports.default = App;\r\n\n\n//# sourceURL=webpack:///./src/page/home/index.tsx?");
 
 /***/ }),
 
@@ -1808,6 +2294,18 @@ eval("\r\nvar __decorate = (this && this.__decorate) || function (decorators, ta
 
 "use strict";
 eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nfunction default_1(k, d, a) {\r\n    return d === 0 ? ((k + a)).toString() : ((k + a) / d).toFixed(1);\r\n}\r\nexports.default = default_1;\r\n\n\n//# sourceURL=webpack:///./src/utils/getKDA.ts?");
+
+/***/ }),
+
+/***/ "./src/utils/getRankTier.ts":
+/*!**********************************!*\
+  !*** ./src/utils/getRankTier.ts ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\r\nObject.defineProperty(exports, \"__esModule\", { value: true });\r\nconst config_1 = __webpack_require__(/*! ../config */ \"./src/config/index.ts\");\r\nfunction default_1(tier, leaderboardrank) {\r\n    let img;\r\n    switch (tier) {\r\n        case null:\r\n            img = config_1.default.img.unknownTier;\r\n            break;\r\n        case 11:\r\n            img = config_1.default.img.herad1;\r\n            break;\r\n        case 12:\r\n            img = config_1.default.img.herad2;\r\n            break;\r\n        case 13:\r\n            img = config_1.default.img.herad3;\r\n            break;\r\n        case 14:\r\n            img = config_1.default.img.herad4;\r\n            break;\r\n        case 15:\r\n            img = config_1.default.img.herad5;\r\n            break;\r\n        case 21:\r\n            img = config_1.default.img.gardian1;\r\n            break;\r\n        case 22:\r\n            img = config_1.default.img.gardian2;\r\n            break;\r\n        case 23:\r\n            img = config_1.default.img.gardian3;\r\n            break;\r\n        case 24:\r\n            img = config_1.default.img.gardian4;\r\n            break;\r\n        case 25:\r\n            img = config_1.default.img.gardian5;\r\n            break;\r\n        case 31:\r\n            img = config_1.default.img.crusader1;\r\n            break;\r\n        case 32:\r\n            img = config_1.default.img.crusader2;\r\n            break;\r\n        case 33:\r\n            img = config_1.default.img.crusader3;\r\n            break;\r\n        case 34:\r\n            img = config_1.default.img.crusader4;\r\n            break;\r\n        case 35:\r\n            img = config_1.default.img.crusader5;\r\n            break;\r\n        case 41:\r\n            img = config_1.default.img.archon1;\r\n            break;\r\n        case 42:\r\n            img = config_1.default.img.archon2;\r\n            break;\r\n        case 43:\r\n            img = config_1.default.img.archon3;\r\n            break;\r\n        case 44:\r\n            img = config_1.default.img.archon4;\r\n            break;\r\n        case 45:\r\n            img = config_1.default.img.archon5;\r\n            break;\r\n        case 51:\r\n            img = config_1.default.img.legend1;\r\n            break;\r\n        case 52:\r\n            img = config_1.default.img.legend2;\r\n            break;\r\n        case 53:\r\n            img = config_1.default.img.legend3;\r\n            break;\r\n        case 54:\r\n            img = config_1.default.img.legend4;\r\n            break;\r\n        case 55:\r\n            img = config_1.default.img.legend5;\r\n            break;\r\n        case 61:\r\n            img = config_1.default.img.ancient1;\r\n            break;\r\n        case 62:\r\n            img = config_1.default.img.ancient2;\r\n            break;\r\n        case 63:\r\n            img = config_1.default.img.ancient3;\r\n            break;\r\n        case 64:\r\n            img = config_1.default.img.ancient4;\r\n            break;\r\n        case 65:\r\n            img = config_1.default.img.ancient5;\r\n            break;\r\n        case 71:\r\n            img = config_1.default.img.divine1;\r\n            break;\r\n        case 72:\r\n            img = config_1.default.img.divine2;\r\n            break;\r\n        case 73:\r\n            img = config_1.default.img.divine3;\r\n            break;\r\n        case 74:\r\n            img = config_1.default.img.divine4;\r\n            break;\r\n        case 75:\r\n            img = config_1.default.img.divine5;\r\n            break;\r\n        case 80:\r\n            if (leaderboardrank === null || ((leaderboardrank > 100 && leaderboardrank <= 1000))) {\r\n                img = config_1.default.img.immortal1;\r\n            }\r\n            else if (leaderboardrank > 10 && leaderboardrank <= 100) {\r\n                img = config_1.default.img.immortal3;\r\n            }\r\n            else {\r\n                img = config_1.default.img.immortal4;\r\n            }\r\n            break;\r\n        default:\r\n            break;\r\n    }\r\n    return img;\r\n}\r\nexports.default = default_1;\r\n\n\n//# sourceURL=webpack:///./src/utils/getRankTier.ts?");
 
 /***/ }),
 
