@@ -151,7 +151,7 @@
 
 .header_3fvS4 {
   display: flex;
-  height: 100px;
+  height: 3.57143rem;
   width: 100%;
   justify-content: center;
   align-items: center;
@@ -163,20 +163,24 @@
 .switch1_Uefna {
   display: flex;
   position: absolute;
-  top: 1.78571rem;
-  left: 1.07143rem;
+  top: 0.89286rem;
+  left: 1.42857rem;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 0.35714rem;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: 0 0 1.78571rem 0.10714rem #ccc;
 }
 
 .switch-icon_3u6PC {
-  font-size: 0.85714rem;
-  color: #fff;
+  font-size: 0.5rem;
+  color: deepskyblue;
 }
 
 .switch-text_1AbdL {
-  font-size: 0.78571rem;
+  font-size: 0.5rem;
   color: #fff;
 }
 
@@ -193,6 +197,7 @@
   margin-top: 0.71429rem;
   background-color: #fff;
   padding: 0.71429rem;
+  border-radius: 1.07143rem;
 }
 
 .person-1_IYEah {
@@ -221,7 +226,6 @@
 .person-right_1Vh6c {
   display: flex;
   width: 76%;
-  height: 4.64286rem;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
@@ -234,6 +238,7 @@
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  margin-bottom: 0.35714rem;
 }
 
 .pro-row_Q_Qaj {
@@ -268,6 +273,15 @@
   width: 100%;
   height: 1px;
   border-bottom: solid 0.03571rem rgba(222, 222, 222, 0.9);
+}
+
+.data-title_1ofC7 {
+  display: flex;
+  width: 100%;
+  margin-bottom: 0.28571rem;
+  justify-content: flex-start;
+  font-size: 0.78571rem;
+  color: #333;
 }
 
 .person-2_2CGGY {
@@ -306,6 +320,40 @@
   top: 82%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.person-3_3M_F2 {
+  visibility: hidden;
+  display: flex;
+  width: 100%;
+  height: 0;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.35714rem;
+  flex-wrap: wrap;
+  transition-property: height;
+  transition: all 0.6s ease-in;
+}
+
+.person3-change_1Kvmr {
+  visibility: visible;
+  height: 7.85714rem;
+}
+
+.person-3-unopen_3unMS {
+  display: flex;
+  width: 80%;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.85714rem;
+  color: #666;
+}
+
+.person-3-unopen_3unMS .icon_v2s1j {
+  color: deepskyblue;
+  margin-right: 0.28571rem;
 }
 
 .loading {
@@ -406,11 +454,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 2.85714rem;
+  height: 2.14286rem;
   width: 100%;
   background-color: #fff;
-  font-size: 1.07143rem;
-  color: #333;
+  font-size: 0.92857rem;
+  color: #666;
+  border-bottom-left-radius: 0.89286rem;
+  border-bottom-right-radius: 0.89286rem;
 }
 
 .add-icon_146Gy {
@@ -418,7 +468,7 @@ body {
   height: 1.07143rem;
   width: 1.07143rem;
   background-size: 100%;
-  margin-right: 1.07143rem;
+  margin-right: 0.42857rem;
 }
 
 .title_3yXlO {
@@ -590,13 +640,13 @@ body {
 }
 
 .property_2-u2C {
-  font-size: 0.64286rem;
+  font-size: 0.71429rem;
   color: #999;
   margin-bottom: 0.14286rem;
 }
 
 .property-value_y8g41 {
-  font-size: 0.71429rem;
+  font-size: 0.78571rem;
   color: #333;
 }
 .block_2Q1d1 {
