@@ -186,7 +186,6 @@
   padding: 0.35714rem;
   border-radius: 50%;
   background-color: #fff;
-  box-shadow: 0 0 1.78571rem 0.10714rem #ccc;
 }
 
 .switch-icon_3u6PC {
@@ -1245,6 +1244,7 @@ body {
   font-size: 1.07143rem;
   letter-spacing: 0.03571rem;
   color: #fff;
+  z-index: 100;
 }
 
 .back_2mX5T {
@@ -1253,4 +1253,49 @@ body {
   left: 0.89286rem;
   font-size: 0.92857rem;
   color: #fff;
+}
+
+.title_1qhBs {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0.71429rem;
+  height: 2.14286rem;
+  font-size: 1.07143rem;
+  color: #666;
+}
+
+.title_1qhBs .icon_2B2Ge {
+  display: block;
+  height: 1.78571rem;
+  width: 1.78571rem;
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  margin-right: 0.28571rem;
+}
+
+.wardmap_cwH9e {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.map-frame_3_j3Z {
+  display: block;
+  margin-bottom: 1.07143rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.heatmap_1hGUG {
+  background-size: 100% 100%;
+  z-index: 10;
+}
+
+.map_2LOJX {
+  background-size: 100% 100%;
+  z-index: 1;
 }
