@@ -1140,6 +1140,7 @@ body {
   font-size: 0.71429rem;
   color: #666;
   word-break: break-all;
+<<<<<<< HEAD
 }
 
 .right_GNNS- {
@@ -1153,6 +1154,21 @@ body {
 
 .up-row_3alXK {
   display: flex;
+=======
+}
+
+.right_GNNS- {
+  display: flex;
+  width: 50%;
+  height: 2.28571rem;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.up-row_3alXK {
+  display: flex;
+>>>>>>> 586b004bfb0f3c6eb63dd958c2a98989e0260910
   width: 100%;
   flex-direction: row;
   align-items: center;
@@ -1283,6 +1299,7 @@ body {
   justify-content: center;
   width: 100%;
 }
+<<<<<<< HEAD
 
 .wardmap_cwH9e .overflow_2107L {
   display: flex;
@@ -1304,10 +1321,22 @@ body {
 }
 
 .heatmap_1hGUG {
+=======
+.map-frame_3_j3Z {
+  display: block;
+  margin-bottom: 1.07143rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.heatmap_1hGUG {
+  background-size: 100% 100%;
+>>>>>>> 586b004bfb0f3c6eb63dd958c2a98989e0260910
   z-index: 10;
 }
 
 .map_2LOJX {
+<<<<<<< HEAD
   z-index: 1;
 }
 .page_6pUVm {
@@ -1367,4 +1396,8 @@ body {
   left: 0.89286rem;
   font-size: 0.92857rem;
   color: #fff;
+=======
+  background-size: 100% 100%;
+  z-index: 1;
+>>>>>>> 586b004bfb0f3c6eb63dd958c2a98989e0260910
 }
