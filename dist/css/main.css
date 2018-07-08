@@ -1290,6 +1290,7 @@ body {
   width: 100vw;
   position: relative;
   overflow: scroll;
+  -webkit-overflow-scrolling: touch;
 }
 .map-frame_3_j3Z {
   display: block;
@@ -1366,45 +1367,67 @@ body {
   color: #fff;
 }
 
-.title_rpvyN {
+.dash-board_3EJMZ {
   display: flex;
+  background-color: #333;
+  color: #fff;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.71429rem;
+}
+
+.dash-board_3EJMZ .dash-item_3wRgk {
+  width: 50%;
+  font-size: 0.85714rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 0.53571rem;
+}
+
+.dash-board_3EJMZ .dash-item_3wRgk .name_BT1sP {
+  color: #999;
+}
+
+.dash-board_3EJMZ .dash-item_3wRgk .value_2UQQF {
+  margin-left: 0.42857rem;
+  color: #fff;
+}
+
+.league-block_1Ir3t {
+  margin-top: 0.71429rem;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.league-block_1Ir3t .radiant_1GT_j {
+  display: flex;
+  padding: 0.35714rem;
   justify-content: flex-start;
   align-items: center;
-  height: 2.14286rem;
-  background-color: #efeff5;
-  width: 100%;
-  font-size: 0.71429rem;
-  color: #333;
+  background: -webkit-linear-gradient(135deg, #fff, #2da72d);
 }
 
-.title_rpvyN .tt1_2J5xT {
+.league-block_1Ir3t .dire_aDO2A {
   display: flex;
-  justify-content: center;
-  width: 30%;
-}
-
-.title_rpvyN .tt2_BHKO- {
-  display: flex;
+  padding: 0.35714rem;
   justify-content: flex-start;
-  width: 30%;
+  align-items: center;
+  background: -webkit-linear-gradient(135deg, #fff, #a83232);
 }
 
-.title_rpvyN .tt3_189Dr {
-  display: flex;
-  justify-content: center;
-  width: 15%;
+.league-block-title_2Ox_v {
+  font-size: 0.78571rem;
+  color: #fff;
+  margin-right: 1.07143rem;
 }
 
-.title_rpvyN .tt4_31Hh9 {
-  display: flex;
-  justify-content: center;
-  width: 12%;
-}
-
-.title_rpvyN .tt5_9AjAj {
-  display: flex;
-  justify-content: center;
-  width: 12%;
+.league-block-result_2qOnI {
+  font-size: 1.21429rem;
+  color: #fff;
 }
 .page_1Qku4 {
   width: 100vw;
@@ -1515,7 +1538,7 @@ body {
 
 .score_2cB2Q {
   display: flex;
-  width: 25%;
+  width: 35%;
   justify-content: center;
   align-items: center;
   font-size: 0.85714rem;
@@ -1525,17 +1548,23 @@ body {
 
 .history_2zEE- {
   display: flex;
-  width: 20%;
+  width: 15%;
   justify-content: flex-start;
   align-items: center;
-  font-size: 0.5rem;
+  font-size: 0.64286rem;
   color: #666;
   word-break: break-all;
 }
 
+.result_1IQ4p {
+  display: flex;
+  width: 15%;
+  justify-content: flex-start;
+  align-items: center;
+}
+
 .win_3ir8o {
   display: flex;
-  width: 20%;
   justify-content: center;
   align-items: center;
   font-size: 0.57143rem;
@@ -1548,7 +1577,6 @@ body {
 
 .lose_filwd {
   display: flex;
-  width: 15%;
   justify-content: center;
   align-items: center;
   font-size: 0.57143rem;
@@ -1559,9 +1587,6 @@ body {
   width: 1.07143rem;
 }
 .block_2GcBo {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
   background-color: #fff;
   width: 7.14286rem;
   padding: 0.35714rem 0.35714rem;
@@ -1569,6 +1594,14 @@ body {
   border: 0.03571rem solid deepskyblue;
   font-size: 0.78571rem;
   color: #666;
+}
+
+.block_2GcBo .inner-box_3-cFS {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
 }
 
 .block_2GcBo .text_1tUtT {
@@ -1585,18 +1618,17 @@ body {
 .visible_3w1x7 {
   position: absolute;
   visibility: visible;
-  display: flex;
   width: 7.14286rem;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: space-between;
+  height: 14.28571rem;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
   padding: 0.35714rem 0.35714rem;
   border-radius: 0.53571rem;
   border: 0.03571rem solid deepskyblue;
   z-index: 10;
   background-color: #fff;
   margin-left: -0.35714rem;
-  transform: translateY(53.5%);
+  margin-top: 0.35714rem;
   opacity: 1;
   transition: all 0.2s linear;
 }
@@ -1604,8 +1636,8 @@ body {
 .unit_3rQkT {
   width: 100%;
   display: flex;
-  font-size: 0.64286rem;
-  padding: 0.28571rem 0;
+  font-size: 0.78571rem;
+  padding: 0.35714rem 0;
   border-bottom: 0.03571rem solid rgba(222, 222, 222, 0.7);
 }
 
