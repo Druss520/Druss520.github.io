@@ -11,7 +11,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content=#838a88>
     <link rel="apple-touch-icon" href='dist/icons/icon_256x256.e4bfecf4b8b397bedf5628cb25cc9e7a.png'>
     <link rel="manifest" href='dist/manifest.json'>
-    <!-- <link rel="stylesheet" href="/dist/css/main.css" /> -->
+    <!-- <link rel="stylesheet" href="./dist/css/main.css" /> -->
     <script>
         // 仅用于开发环境和预发布环境，正式环境直接引用
     (function() {
@@ -19,7 +19,7 @@
         const head = document.getElementsByTagName('head')[0];
         const link = document.createElement('link');
         link.rel = 'stylesheet';
-        link.href = '/dist/css/main.css?time=' + scriptTime;
+        link.href = './dist/css/main.css?time=' + scriptTime;
         head.appendChild(link);
     })();
     </script>
@@ -28,7 +28,7 @@
 
 <body>
     <div id="reactRoot"></div>
-    <!-- <script type="text/javascript" src="/dist/index.js"></script> -->
+    <!-- <script type="text/javascript" src="./dist/index.js"></script> -->
     <script>
         // 仅用于开发环境和预发布环境，正式环境直接引用
     (function() {
@@ -36,7 +36,7 @@
         const body = document.getElementsByTagName('body')[0];
         const script = document.createElement('script');
         script.type = 'text/javascript';
-        script.src = '/dist/index.js?time=' + scriptTime;
+        script.src = './dist/index.js?time=' + scriptTime;
         body.appendChild(script);
     })();
     </script>
