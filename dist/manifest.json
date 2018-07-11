@@ -1,41 +1,41 @@
 {
   "icons": [
     {
-      "src": "/icons/icon_512x512.dfe72cac88020f40848096b435b6577b.png",
+      "src": "./icons/icon_512x512.dfe72cac88020f40848096b435b6577b.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon_384x384.8d9541960941e2fab5c01b345b7d9531.png",
+      "src": "./icons/icon_384x384.8d9541960941e2fab5c01b345b7d9531.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon_256x256.e4bfecf4b8b397bedf5628cb25cc9e7a.png",
+      "src": "./icons/icon_256x256.e4bfecf4b8b397bedf5628cb25cc9e7a.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon_192x192.ce65293ebab06e226b7e99c1c90ac312.png",
+      "src": "./icons/icon_192x192.ce65293ebab06e226b7e99c1c90ac312.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon_128x128.b37997e9bfade1c274ecb0f55662f873.png",
+      "src": "./icons/icon_128x128.b37997e9bfade1c274ecb0f55662f873.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "/icons/icon_96x96.6ca371a614ae13b509eeb3f888fb7385.png",
+      "src": "./icons/icon_96x96.6ca371a614ae13b509eeb3f888fb7385.png",
       "sizes": "96x96",
       "type": "image/png"
     }
   ],
-  "name": "Dota2 Info",
-  "short_name": "dota",
-  "orientation": "portrait",
+  "name": "VisualDota",
+  "short_name": "DotaV",
+  "orientation": "any",
   "display": "standalone",
-  "start_url": ".",
+  "start_url": "/",
   "description": "An isomorphic progressive dota info app built by React",
   "background_color": "#333",
   "theme_color": "#333"
