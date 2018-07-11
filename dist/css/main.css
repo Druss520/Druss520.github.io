@@ -1494,7 +1494,7 @@ body {
   padding: 0.35714rem;
   justify-content: flex-start;
   align-items: center;
-  background: -webkit-linear-gradient(135deg, #fff, #e4a531);
+  background: -webkit-linear-gradient(135deg, #fff, #393d3f);
   font-size: 0.85714rem;
   color: #fff;
 }
@@ -1506,6 +1506,8 @@ body {
   flex-wrap: wrap;
   justify-content: flex-start;
   align-items: center;
+  font-size: 0.71429rem;
+  color: deepskyblue;
 }
 
 .chat-block_nSGqu .chat-item-red_jF1Ob {
@@ -1537,7 +1539,7 @@ body {
   padding: 0.35714rem;
   justify-content: flex-start;
   align-items: center;
-  background: -webkit-linear-gradient(135deg, #fff, #314ce4);
+  background: -webkit-linear-gradient(135deg, #fff, #4e5152);
   font-size: 0.85714rem;
   color: #fff;
 }
@@ -1561,7 +1563,7 @@ body {
 }
 
 .echart1_2Y-1L {
-  width: 95%;
+  width: 100%;
   height: 17.85714rem;
 }
 .block_3LKVM {
