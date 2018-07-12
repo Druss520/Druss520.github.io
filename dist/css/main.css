@@ -1552,14 +1552,37 @@ body {
   justify-content: center;
 }
 
-.echart-block_3sCjg .chart-item-title1_sUJul {
-  font-size: 0.78571rem;
-  color: goldenrod;
+.echart-block_3sCjg .describe_6lIsk {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
-.echart-block_3sCjg .chart-item-title2_3Zbsg {
-  font-size: 0.78571rem;
-  color: darkgrey;
+.echart-block_3sCjg .describe_6lIsk .desc-block_3ZOrR {
+  margin: 0 0.71429rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.echart-block_3sCjg .describe_6lIsk .desc-block_3ZOrR .block-1_1WCDy {
+  display: block;
+  height: 0.71429rem;
+  width: 0.71429rem;
+  background-color: #3ec93e;
+}
+
+.echart-block_3sCjg .describe_6lIsk .desc-block_3ZOrR .block-2_11BE5 {
+  display: block;
+  height: 0.71429rem;
+  width: 0.71429rem;
+  background-color: #c93f3f;
+}
+
+.echart-block_3sCjg .describe_6lIsk .desc-block_3ZOrR .chart-desc-title_3cGz2 {
+  font-size: 0.71429rem;
+  color: #5c635c;
 }
 
 .echart1_2Y-1L {
