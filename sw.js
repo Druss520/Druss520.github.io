@@ -1,7 +1,6 @@
 var cacheName = 'vd-0-1-0';
 var apiCacheName = 'api-1-1-1';
 var cacheFiles = [
-    '/',
     './',
     './index.html',
     './dist/css/main.css',
