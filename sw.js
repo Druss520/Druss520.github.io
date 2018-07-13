@@ -24,7 +24,9 @@ self.addEventListener('fetch', function(e) {
   // 如果有cache则直接返回，否则通过fetch请求
 
   var cacheRequestUrls = [
-    'https://api.opendota.com/api/players/'
+    'https://api.opendota.com/api/players/',
+    'https://api.opendota.com/api/heroStats',
+    'https://api.opendota.com/api/proPlayers',
   ]
 
   console.log('正在请求:' + e.request.url);
