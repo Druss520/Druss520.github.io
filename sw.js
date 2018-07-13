@@ -14,10 +14,31 @@ var cacheFiles = [
 // 监听install事件，安装完成后，进行文件缓存
 self.addEventListener('install', function (e) {
   console.log('Service Worker 状态： install');
+ 
   var cacheOpenPromise = caches.open(cacheName).then(function (cache) {
       return cache.addAll(cacheFiles);
-  });
+  }).catch(e => {
+    self.clients.matchAll()
+    .then(function (clients) {
+        console.log(clients,111);
+        if (clients && clients.length) {
+            clients.forEach(function (client) {
+                // 发送字符串'sw.update'
+                client.postMessage('error cacheName');
+            })
+        }
+    })
+  })
   e.waitUntil(cacheOpenPromise);
+  self.clients.matchAll()
+    .then(function (clients) {
+        if (clients && clients.length) {
+            clients.forEach(function (client) {
+                // 发送字符串'sw.update'
+                client.postMessage('cacheName');
+            })
+        }
+    })
 });
 
 self.addEventListener('fetch', function(e) {
@@ -30,6 +51,15 @@ self.addEventListener('fetch', function(e) {
   ]
 
   console.log('正在请求:' + e.request.url);
+  self.clients.matchAll()
+  .then(function (clients) {
+      if (clients && clients.length) {
+          clients.forEach(function (client) {
+              // 发送字符串'sw.update'
+              client.postMessage(e.request.url);
+          })
+      }
+  })
 
   var needCache = cacheRequestUrls.some(function(url) {
     return e.request.url.indexOf(url) > -1; 
