@@ -15,16 +15,7 @@ var cacheFiles = [
 self.addEventListener('install', function (e) {
   console.log('Service Worker 状态： install');
   var cacheOpenPromise = caches.open(cacheName).then(function (cache) {
-    // self.clients.matchAll()
-    // .then(function (clients) {
-    //     if (clients && clients.length) {
-    //         clients.forEach(function (client) {
-    //             // 发送字符串'sw.update'
-    //             client.postMessage('sw.update');
-    //         })
-    //     }
-    // })
-    return cache.addAll(cacheFiles);
+      return cache.addAll(cacheFiles);
   });
   e.waitUntil(cacheOpenPromise);
 });
